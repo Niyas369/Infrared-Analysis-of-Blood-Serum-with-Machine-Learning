@@ -43,7 +43,6 @@ diagnostic systems.
 ---
 
 ## 📁 Project Structure
-## 📁 Project Structure
 
 ```
 data/        # Sample data (anonymised)
